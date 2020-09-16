@@ -1,0 +1,4 @@
+﻿  graphicsclass.cpp
+C:\Users\MstcE\Downloads\Ejemplo2\Ejemplo2\graphicsclass.cpp(143,14): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\MstcE\Downloads\Ejemplo2\Ejemplo2\graphicsclass.cpp(144,15): warning C4305: '+=': truncation from 'double' to 'float'
+  Ejemplo2.vcxproj -> C:\Users\MstcE\Downloads\Ejemplo2\x64\Debug\Ejemplo2.exe
